@@ -1,5 +1,5 @@
-Extension: WofBaseAppointmentUpdate
-Id: wof-base-appointment-update
+Extension: AppointmentUpdate
+Id: appointment-update
 Title: "Appointment Update - Reschedule & Cancellation"
 Description: "Information about web rescheduling and whether the appointment can be rescheduled or cancelled at the current time."
 * ^status = #draft

@@ -1,5 +1,5 @@
-Extension: WofBaseListReference
-Id: wof-base-list-reference
+Extension: ListReference
+Id: list-reference
 Title: "WofBase List Reference"
 Description: "Points to a contained List resource that defines related items."
 * ^status = #active

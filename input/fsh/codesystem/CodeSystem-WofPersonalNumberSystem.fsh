@@ -4,7 +4,6 @@ Title: "WOF Personal Number Identifier Systems"
 Description: "Allowed identifier.system values for national personal numbers used in WOF Connect."
 * ^status = #active
 * ^content = #fragment
-*
 
 * #urn:oid:2.16.578.1.12.4.1.4.1 "Norwegian National Identity Number (assigned to residents registered in the National Population Register)"
 * #urn:oid:2.16.578.1.12.4.1.4.2 "Norwegian Temporary Identity Number (D-number)"

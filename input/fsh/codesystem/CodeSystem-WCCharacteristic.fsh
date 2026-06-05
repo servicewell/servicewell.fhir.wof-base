@@ -36,7 +36,6 @@ Title: "WOF-Base Booking Confirmation Characteristic"
 Description: "WOF-Base ValueSet for booking confirmation Characteristic for the source PMS system - used in HealthcareService.characteristic"
 * ^status = #active
 * ^experimental = false
-* ^url = "http://canonical.fhir.link/servicewell/wof-connect/ValueSet/wc-characteristic-booking-confirmation"
 
 * WCCharacteristic#send-confirmation-by-sms
 * WCCharacteristic#send-confirmation-by-email
