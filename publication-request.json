@@ -1,0 +1,17 @@
+{
+   "package-id" : "servicewell.fhir.wof-base",
+   "version" : "0.1.0",
+   "path" : "https://canonical.fhir.link/servicewell/wof-base/0.1.0-ballot",
+   "mode" : "working",
+   "status" : "ballot",
+   "sequence" : "V1 Release",
+   "desc" : "Updated documentation for Portal public API.",
+   "first" : true,
+   "title" : "WOF Base Implementation Guide",
+   "ci-build" : "https://build.fhir.org/ig/servicewell/servicewell.fhir.wof-base",
+   "registry-description" : "Implementation Guide for WOF base resources made by Service Well.",
+   "registry-country" : "se",
+   "registry-authority" : "Service Well AB",
+   "category" : "base resources",
+   "introduction" : "This implementation guide defines base FHIR artifacts for Service Well's WOF portal API"
+}

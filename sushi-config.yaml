@@ -6,9 +6,9 @@
 id: servicewell.fhir.wof-base
 canonical: https://canonical.fhir.link/servicewell/wof-base
 name: Wof Base
-title: Wof Base - Baseline for wof
+title: Wof Base - Baseline for Wof
 #description: Service Well's online appointment booking service - A Practical Blueprint for Upgrading Dental Care
-status: draft # draft | active | retired | unknown
+status: active # draft | active | retired | unknown
 version: 0.1.0
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 language: en-US
