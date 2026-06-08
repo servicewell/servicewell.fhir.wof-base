@@ -2,7 +2,7 @@
 Extension: ClinicInfo
 Id: ext-clinic-info
 Title: "Clinic Info"
-Description: "Container extension for clinic information shown in the portal."
+Description: "Container extension for clinic information."
 
 
 * ^status = #active
